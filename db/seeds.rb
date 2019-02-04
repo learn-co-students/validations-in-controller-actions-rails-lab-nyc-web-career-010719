@@ -1,3 +1,4 @@
+
 Author.create!(
   name: "Ada Lovelace", email: "ada@the-history-of-programming.com"
 )
